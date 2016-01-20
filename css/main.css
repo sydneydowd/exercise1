@@ -43,6 +43,30 @@ body {
   font-size: 5em;
   color: white;
 }
+
+.bttn {
+  display: inline-block;
+  margin: 10em;
+}
+
+.icon-case:hover,
+.icon-case:active,
+.icon-case:focus {
+  color:#d7222e;
+}
+
+.icon-pass:hover,
+.icon-pass:active,
+.icon-pass:focus {
+  color:#d7222e;
+}
+  
+.icon-gate-1:hover,
+.icon-gate-1:active,
+.icon-gate-1:focus {
+  color:#d7222e;
+}
+  
   
 
 @media only screen and (min-width: 20em) {
